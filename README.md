@@ -2,6 +2,12 @@
 
 This repository contains my submission for the **Solution Engineer Trainee** role at **AccuKnox**, covering both conceptual understanding and hands-on implementation related to Kubernetes and cloud-native security.
 
+## 🎥 Introduction Video (4 Minutes)
+
+A short video introducing my background, experience, key project work, and motivation for this role.
+
+🔗 Video Link: https://drive.google.com/file/d/1fGjrCAC4L9uRW6RmdLbBFI4riBKZRNBk/view?usp=drivesdk
+
 ## Problem Statements
 
 ### Problem Statement 1 – Kubernetes Security Concepts
@@ -16,4 +22,5 @@ This repository contains my submission for the **Solution Engineer Trainee** rol
   - Command Injection
   - Cross-Site Scripting (XSS)
 - Includes Kubernetes manifests, screenshots, and a demonstration report
+
 
