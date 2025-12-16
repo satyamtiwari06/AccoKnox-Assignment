@@ -17,5 +17,3 @@ This repository contains my submission for the **Solution Engineer Trainee** rol
   - Cross-Site Scripting (XSS)
 - Includes Kubernetes manifests, screenshots, and a demonstration report
 
-## Repository Structure
-
